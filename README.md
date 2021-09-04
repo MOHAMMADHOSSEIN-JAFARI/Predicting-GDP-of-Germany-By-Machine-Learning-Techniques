@@ -6,7 +6,7 @@ criteria, the best possible model is successfully generated, and it has ten inde
 produced model is accurate because it can forecast the sign of GDP growth rate of Germany correctly in
 all years of the test set and its predictions can cover an acceptable part of the actual GDP growth rate
 of Germany.
-1 Introduction
+##
 Germany is the fourth-largest economy in the world. It is also the greatest economy in Europe. There is an
 idea about analyzing the German economy as the core of Europe. The idea says the story of the economic
 success of Germany can also be the economic success of other European countries. This idea wants to see
